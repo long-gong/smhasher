@@ -1,4 +1,0 @@
-/home/saber/GitHub/smhasher/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/saber/GitHub/smhasher/src/cmake-build-debug/CMakeFiles/SMHasherSupport.dir
-/home/saber/GitHub/smhasher/src/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/saber/GitHub/smhasher/src/cmake-build-debug/CMakeFiles/SMHasher.dir
